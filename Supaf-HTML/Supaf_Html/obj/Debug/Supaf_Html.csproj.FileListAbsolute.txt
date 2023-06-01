@@ -1,0 +1,531 @@
+C:\Users\gmazi\Downloads\Supaf_Html\Supaf_Html\bin\Supaf_Html.dll.config
+C:\Users\gmazi\Downloads\Supaf_Html\Supaf_Html\bin\Supaf_Html.dll
+C:\Users\gmazi\Downloads\Supaf_Html\Supaf_Html\bin\Supaf_Html.pdb
+C:\Users\gmazi\Downloads\Supaf_Html\Supaf_Html\bin\roslyn\csc.exe
+C:\Users\gmazi\Downloads\Supaf_Html\Supaf_Html\bin\roslyn\csc.exe.config
+C:\Users\gmazi\Downloads\Supaf_Html\Supaf_Html\bin\roslyn\csc.rsp
+C:\Users\gmazi\Downloads\Supaf_Html\Supaf_Html\bin\roslyn\csi.exe
+C:\Users\gmazi\Downloads\Supaf_Html\Supaf_Html\bin\roslyn\csi.exe.config
+C:\Users\gmazi\Downloads\Supaf_Html\Supaf_Html\bin\roslyn\csi.rsp
+C:\Users\gmazi\Downloads\Supaf_Html\Supaf_Html\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\gmazi\Downloads\Supaf_Html\Supaf_Html\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\gmazi\Downloads\Supaf_Html\Supaf_Html\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\gmazi\Downloads\Supaf_Html\Supaf_Html\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\gmazi\Downloads\Supaf_Html\Supaf_Html\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\gmazi\Downloads\Supaf_Html\Supaf_Html\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\gmazi\Downloads\Supaf_Html\Supaf_Html\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\gmazi\Downloads\Supaf_Html\Supaf_Html\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\gmazi\Downloads\Supaf_Html\Supaf_Html\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\gmazi\Downloads\Supaf_Html\Supaf_Html\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\gmazi\Downloads\Supaf_Html\Supaf_Html\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\gmazi\Downloads\Supaf_Html\Supaf_Html\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\gmazi\Downloads\Supaf_Html\Supaf_Html\bin\roslyn\System.AppContext.dll
+C:\Users\gmazi\Downloads\Supaf_Html\Supaf_Html\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\gmazi\Downloads\Supaf_Html\Supaf_Html\bin\roslyn\System.Console.dll
+C:\Users\gmazi\Downloads\Supaf_Html\Supaf_Html\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\gmazi\Downloads\Supaf_Html\Supaf_Html\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\gmazi\Downloads\Supaf_Html\Supaf_Html\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\gmazi\Downloads\Supaf_Html\Supaf_Html\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\gmazi\Downloads\Supaf_Html\Supaf_Html\bin\roslyn\System.IO.Compression.dll
+C:\Users\gmazi\Downloads\Supaf_Html\Supaf_Html\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\gmazi\Downloads\Supaf_Html\Supaf_Html\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\gmazi\Downloads\Supaf_Html\Supaf_Html\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\gmazi\Downloads\Supaf_Html\Supaf_Html\bin\roslyn\System.Net.Http.dll
+C:\Users\gmazi\Downloads\Supaf_Html\Supaf_Html\bin\roslyn\System.Net.Sockets.dll
+C:\Users\gmazi\Downloads\Supaf_Html\Supaf_Html\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\gmazi\Downloads\Supaf_Html\Supaf_Html\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\gmazi\Downloads\Supaf_Html\Supaf_Html\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\gmazi\Downloads\Supaf_Html\Supaf_Html\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\gmazi\Downloads\Supaf_Html\Supaf_Html\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\gmazi\Downloads\Supaf_Html\Supaf_Html\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\gmazi\Downloads\Supaf_Html\Supaf_Html\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\gmazi\Downloads\Supaf_Html\Supaf_Html\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\gmazi\Downloads\Supaf_Html\Supaf_Html\bin\roslyn\System.ValueTuple.dll
+C:\Users\gmazi\Downloads\Supaf_Html\Supaf_Html\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\gmazi\Downloads\Supaf_Html\Supaf_Html\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\gmazi\Downloads\Supaf_Html\Supaf_Html\bin\roslyn\System.Xml.XPath.dll
+C:\Users\gmazi\Downloads\Supaf_Html\Supaf_Html\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\gmazi\Downloads\Supaf_Html\Supaf_Html\bin\roslyn\vbc.exe
+C:\Users\gmazi\Downloads\Supaf_Html\Supaf_Html\bin\roslyn\vbc.exe.config
+C:\Users\gmazi\Downloads\Supaf_Html\Supaf_Html\bin\roslyn\vbc.rsp
+C:\Users\gmazi\Downloads\Supaf_Html\Supaf_Html\bin\roslyn\VBCSCompiler.exe
+C:\Users\gmazi\Downloads\Supaf_Html\Supaf_Html\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\gmazi\Downloads\Supaf_Html\Supaf_Html\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\gmazi\Downloads\Supaf_Html\Supaf_Html\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\gmazi\Downloads\Supaf_Html\Supaf_Html\obj\Debug\Supaf_Html.csproj.AssemblyReference.cache
+C:\Users\gmazi\Downloads\Supaf_Html\Supaf_Html\obj\Debug\Supaf_Html.csproj.CoreCompileInputs.cache
+C:\Users\gmazi\Downloads\Supaf_Html\Supaf_Html\obj\Debug\Supaf_Html.csproj.CopyComplete
+C:\Users\gmazi\Downloads\Supaf_Html\Supaf_Html\obj\Debug\Supaf_Html.dll
+C:\Users\gmazi\Downloads\Supaf_Html\Supaf_Html\obj\Debug\Supaf_Html.pdb
+C:\Users\Barbarian\Desktop\projeto integrador final\Supaf_Html\Supaf_Html\bin\Supaf_Html.dll.config
+C:\Users\Barbarian\Desktop\projeto integrador final\Supaf_Html\Supaf_Html\bin\Supaf_Html.dll
+C:\Users\Barbarian\Desktop\projeto integrador final\Supaf_Html\Supaf_Html\bin\Supaf_Html.pdb
+C:\Users\Barbarian\Desktop\projeto integrador final\Supaf_Html\Supaf_Html\bin\roslyn\csc.exe
+C:\Users\Barbarian\Desktop\projeto integrador final\Supaf_Html\Supaf_Html\bin\roslyn\csc.exe.config
+C:\Users\Barbarian\Desktop\projeto integrador final\Supaf_Html\Supaf_Html\bin\roslyn\csc.rsp
+C:\Users\Barbarian\Desktop\projeto integrador final\Supaf_Html\Supaf_Html\bin\roslyn\csi.exe
+C:\Users\Barbarian\Desktop\projeto integrador final\Supaf_Html\Supaf_Html\bin\roslyn\csi.exe.config
+C:\Users\Barbarian\Desktop\projeto integrador final\Supaf_Html\Supaf_Html\bin\roslyn\csi.rsp
+C:\Users\Barbarian\Desktop\projeto integrador final\Supaf_Html\Supaf_Html\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Barbarian\Desktop\projeto integrador final\Supaf_Html\Supaf_Html\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Barbarian\Desktop\projeto integrador final\Supaf_Html\Supaf_Html\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Barbarian\Desktop\projeto integrador final\Supaf_Html\Supaf_Html\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Barbarian\Desktop\projeto integrador final\Supaf_Html\Supaf_Html\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Barbarian\Desktop\projeto integrador final\Supaf_Html\Supaf_Html\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Barbarian\Desktop\projeto integrador final\Supaf_Html\Supaf_Html\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Barbarian\Desktop\projeto integrador final\Supaf_Html\Supaf_Html\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Barbarian\Desktop\projeto integrador final\Supaf_Html\Supaf_Html\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Barbarian\Desktop\projeto integrador final\Supaf_Html\Supaf_Html\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Barbarian\Desktop\projeto integrador final\Supaf_Html\Supaf_Html\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Barbarian\Desktop\projeto integrador final\Supaf_Html\Supaf_Html\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Barbarian\Desktop\projeto integrador final\Supaf_Html\Supaf_Html\bin\roslyn\System.AppContext.dll
+C:\Users\Barbarian\Desktop\projeto integrador final\Supaf_Html\Supaf_Html\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Barbarian\Desktop\projeto integrador final\Supaf_Html\Supaf_Html\bin\roslyn\System.Console.dll
+C:\Users\Barbarian\Desktop\projeto integrador final\Supaf_Html\Supaf_Html\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Barbarian\Desktop\projeto integrador final\Supaf_Html\Supaf_Html\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Barbarian\Desktop\projeto integrador final\Supaf_Html\Supaf_Html\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Barbarian\Desktop\projeto integrador final\Supaf_Html\Supaf_Html\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Barbarian\Desktop\projeto integrador final\Supaf_Html\Supaf_Html\bin\roslyn\System.IO.Compression.dll
+C:\Users\Barbarian\Desktop\projeto integrador final\Supaf_Html\Supaf_Html\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Barbarian\Desktop\projeto integrador final\Supaf_Html\Supaf_Html\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Barbarian\Desktop\projeto integrador final\Supaf_Html\Supaf_Html\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Barbarian\Desktop\projeto integrador final\Supaf_Html\Supaf_Html\bin\roslyn\System.Net.Http.dll
+C:\Users\Barbarian\Desktop\projeto integrador final\Supaf_Html\Supaf_Html\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Barbarian\Desktop\projeto integrador final\Supaf_Html\Supaf_Html\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Barbarian\Desktop\projeto integrador final\Supaf_Html\Supaf_Html\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Barbarian\Desktop\projeto integrador final\Supaf_Html\Supaf_Html\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Barbarian\Desktop\projeto integrador final\Supaf_Html\Supaf_Html\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Barbarian\Desktop\projeto integrador final\Supaf_Html\Supaf_Html\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Barbarian\Desktop\projeto integrador final\Supaf_Html\Supaf_Html\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Barbarian\Desktop\projeto integrador final\Supaf_Html\Supaf_Html\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Barbarian\Desktop\projeto integrador final\Supaf_Html\Supaf_Html\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Barbarian\Desktop\projeto integrador final\Supaf_Html\Supaf_Html\bin\roslyn\System.ValueTuple.dll
+C:\Users\Barbarian\Desktop\projeto integrador final\Supaf_Html\Supaf_Html\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Barbarian\Desktop\projeto integrador final\Supaf_Html\Supaf_Html\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Barbarian\Desktop\projeto integrador final\Supaf_Html\Supaf_Html\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Barbarian\Desktop\projeto integrador final\Supaf_Html\Supaf_Html\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Barbarian\Desktop\projeto integrador final\Supaf_Html\Supaf_Html\bin\roslyn\vbc.exe
+C:\Users\Barbarian\Desktop\projeto integrador final\Supaf_Html\Supaf_Html\bin\roslyn\vbc.exe.config
+C:\Users\Barbarian\Desktop\projeto integrador final\Supaf_Html\Supaf_Html\bin\roslyn\vbc.rsp
+C:\Users\Barbarian\Desktop\projeto integrador final\Supaf_Html\Supaf_Html\bin\roslyn\VBCSCompiler.exe
+C:\Users\Barbarian\Desktop\projeto integrador final\Supaf_Html\Supaf_Html\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Barbarian\Desktop\projeto integrador final\Supaf_Html\Supaf_Html\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Barbarian\Desktop\projeto integrador final\Supaf_Html\Supaf_Html\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Barbarian\Desktop\projeto integrador final\Supaf_Html\Supaf_Html\obj\Debug\Supaf_Html.csproj.AssemblyReference.cache
+C:\Users\Barbarian\Desktop\projeto integrador final\Supaf_Html\Supaf_Html\obj\Debug\Supaf_Html.csproj.CoreCompileInputs.cache
+C:\Users\Barbarian\Desktop\projeto integrador final\Supaf_Html\Supaf_Html\obj\Debug\Supaf_Html.csproj.CopyComplete
+C:\Users\Barbarian\Desktop\projeto integrador final\Supaf_Html\Supaf_Html\obj\Debug\Supaf_Html.dll
+C:\Users\Barbarian\Desktop\projeto integrador final\Supaf_Html\Supaf_Html\obj\Debug\Supaf_Html.pdb
+C:\Users\thiago.hlrosa\source\repos\Supaf\Supaf_Html\bin\Supaf_Html.dll.config
+C:\Users\thiago.hlrosa\source\repos\Supaf\Supaf_Html\bin\Supaf_Html.dll
+C:\Users\thiago.hlrosa\source\repos\Supaf\Supaf_Html\bin\Supaf_Html.pdb
+C:\Users\thiago.hlrosa\source\repos\Supaf\Supaf_Html\bin\roslyn\csc.exe
+C:\Users\thiago.hlrosa\source\repos\Supaf\Supaf_Html\bin\roslyn\csc.exe.config
+C:\Users\thiago.hlrosa\source\repos\Supaf\Supaf_Html\bin\roslyn\csc.rsp
+C:\Users\thiago.hlrosa\source\repos\Supaf\Supaf_Html\bin\roslyn\csi.exe
+C:\Users\thiago.hlrosa\source\repos\Supaf\Supaf_Html\bin\roslyn\csi.exe.config
+C:\Users\thiago.hlrosa\source\repos\Supaf\Supaf_Html\bin\roslyn\csi.rsp
+C:\Users\thiago.hlrosa\source\repos\Supaf\Supaf_Html\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\thiago.hlrosa\source\repos\Supaf\Supaf_Html\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\thiago.hlrosa\source\repos\Supaf\Supaf_Html\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\thiago.hlrosa\source\repos\Supaf\Supaf_Html\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\thiago.hlrosa\source\repos\Supaf\Supaf_Html\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\thiago.hlrosa\source\repos\Supaf\Supaf_Html\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\thiago.hlrosa\source\repos\Supaf\Supaf_Html\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\thiago.hlrosa\source\repos\Supaf\Supaf_Html\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\thiago.hlrosa\source\repos\Supaf\Supaf_Html\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\thiago.hlrosa\source\repos\Supaf\Supaf_Html\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\thiago.hlrosa\source\repos\Supaf\Supaf_Html\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\thiago.hlrosa\source\repos\Supaf\Supaf_Html\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\thiago.hlrosa\source\repos\Supaf\Supaf_Html\bin\roslyn\System.AppContext.dll
+C:\Users\thiago.hlrosa\source\repos\Supaf\Supaf_Html\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\thiago.hlrosa\source\repos\Supaf\Supaf_Html\bin\roslyn\System.Console.dll
+C:\Users\thiago.hlrosa\source\repos\Supaf\Supaf_Html\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\thiago.hlrosa\source\repos\Supaf\Supaf_Html\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\thiago.hlrosa\source\repos\Supaf\Supaf_Html\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\thiago.hlrosa\source\repos\Supaf\Supaf_Html\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\thiago.hlrosa\source\repos\Supaf\Supaf_Html\bin\roslyn\System.IO.Compression.dll
+C:\Users\thiago.hlrosa\source\repos\Supaf\Supaf_Html\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\thiago.hlrosa\source\repos\Supaf\Supaf_Html\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\thiago.hlrosa\source\repos\Supaf\Supaf_Html\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\thiago.hlrosa\source\repos\Supaf\Supaf_Html\bin\roslyn\System.Net.Http.dll
+C:\Users\thiago.hlrosa\source\repos\Supaf\Supaf_Html\bin\roslyn\System.Net.Sockets.dll
+C:\Users\thiago.hlrosa\source\repos\Supaf\Supaf_Html\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\thiago.hlrosa\source\repos\Supaf\Supaf_Html\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\thiago.hlrosa\source\repos\Supaf\Supaf_Html\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\thiago.hlrosa\source\repos\Supaf\Supaf_Html\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\thiago.hlrosa\source\repos\Supaf\Supaf_Html\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\thiago.hlrosa\source\repos\Supaf\Supaf_Html\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\thiago.hlrosa\source\repos\Supaf\Supaf_Html\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\thiago.hlrosa\source\repos\Supaf\Supaf_Html\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\thiago.hlrosa\source\repos\Supaf\Supaf_Html\bin\roslyn\System.ValueTuple.dll
+C:\Users\thiago.hlrosa\source\repos\Supaf\Supaf_Html\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\thiago.hlrosa\source\repos\Supaf\Supaf_Html\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\thiago.hlrosa\source\repos\Supaf\Supaf_Html\bin\roslyn\System.Xml.XPath.dll
+C:\Users\thiago.hlrosa\source\repos\Supaf\Supaf_Html\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\thiago.hlrosa\source\repos\Supaf\Supaf_Html\bin\roslyn\vbc.exe
+C:\Users\thiago.hlrosa\source\repos\Supaf\Supaf_Html\bin\roslyn\vbc.exe.config
+C:\Users\thiago.hlrosa\source\repos\Supaf\Supaf_Html\bin\roslyn\vbc.rsp
+C:\Users\thiago.hlrosa\source\repos\Supaf\Supaf_Html\bin\roslyn\VBCSCompiler.exe
+C:\Users\thiago.hlrosa\source\repos\Supaf\Supaf_Html\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\thiago.hlrosa\source\repos\Supaf\Supaf_Html\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\thiago.hlrosa\source\repos\Supaf\Supaf_Html\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\thiago.hlrosa\source\repos\Supaf\Supaf_Html\obj\Debug\Supaf_Html.csproj.AssemblyReference.cache
+C:\Users\thiago.hlrosa\source\repos\Supaf\Supaf_Html\obj\Debug\Supaf_Html.csproj.CoreCompileInputs.cache
+C:\Users\thiago.hlrosa\source\repos\Supaf\Supaf_Html\obj\Debug\Supaf_Html.csproj.CopyComplete
+C:\Users\thiago.hlrosa\source\repos\Supaf\Supaf_Html\obj\Debug\Supaf_Html.dll
+C:\Users\thiago.hlrosa\source\repos\Supaf\Supaf_Html\obj\Debug\Supaf_Html.pdb
+C:\Users\thiago.hlrosa\source\repos\Supaf finalcountdown\Supaf_Html\bin\Supaf_Html.dll.config
+C:\Users\thiago.hlrosa\source\repos\Supaf finalcountdown\Supaf_Html\bin\Supaf_Html.dll
+C:\Users\thiago.hlrosa\source\repos\Supaf finalcountdown\Supaf_Html\bin\Supaf_Html.pdb
+C:\Users\thiago.hlrosa\source\repos\Supaf finalcountdown\Supaf_Html\bin\roslyn\csc.exe
+C:\Users\thiago.hlrosa\source\repos\Supaf finalcountdown\Supaf_Html\bin\roslyn\csc.exe.config
+C:\Users\thiago.hlrosa\source\repos\Supaf finalcountdown\Supaf_Html\bin\roslyn\csc.rsp
+C:\Users\thiago.hlrosa\source\repos\Supaf finalcountdown\Supaf_Html\bin\roslyn\csi.exe
+C:\Users\thiago.hlrosa\source\repos\Supaf finalcountdown\Supaf_Html\bin\roslyn\csi.exe.config
+C:\Users\thiago.hlrosa\source\repos\Supaf finalcountdown\Supaf_Html\bin\roslyn\csi.rsp
+C:\Users\thiago.hlrosa\source\repos\Supaf finalcountdown\Supaf_Html\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\thiago.hlrosa\source\repos\Supaf finalcountdown\Supaf_Html\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\thiago.hlrosa\source\repos\Supaf finalcountdown\Supaf_Html\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\thiago.hlrosa\source\repos\Supaf finalcountdown\Supaf_Html\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\thiago.hlrosa\source\repos\Supaf finalcountdown\Supaf_Html\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\thiago.hlrosa\source\repos\Supaf finalcountdown\Supaf_Html\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\thiago.hlrosa\source\repos\Supaf finalcountdown\Supaf_Html\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\thiago.hlrosa\source\repos\Supaf finalcountdown\Supaf_Html\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\thiago.hlrosa\source\repos\Supaf finalcountdown\Supaf_Html\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\thiago.hlrosa\source\repos\Supaf finalcountdown\Supaf_Html\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\thiago.hlrosa\source\repos\Supaf finalcountdown\Supaf_Html\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\thiago.hlrosa\source\repos\Supaf finalcountdown\Supaf_Html\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\thiago.hlrosa\source\repos\Supaf finalcountdown\Supaf_Html\bin\roslyn\System.AppContext.dll
+C:\Users\thiago.hlrosa\source\repos\Supaf finalcountdown\Supaf_Html\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\thiago.hlrosa\source\repos\Supaf finalcountdown\Supaf_Html\bin\roslyn\System.Console.dll
+C:\Users\thiago.hlrosa\source\repos\Supaf finalcountdown\Supaf_Html\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\thiago.hlrosa\source\repos\Supaf finalcountdown\Supaf_Html\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\thiago.hlrosa\source\repos\Supaf finalcountdown\Supaf_Html\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\thiago.hlrosa\source\repos\Supaf finalcountdown\Supaf_Html\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\thiago.hlrosa\source\repos\Supaf finalcountdown\Supaf_Html\bin\roslyn\System.IO.Compression.dll
+C:\Users\thiago.hlrosa\source\repos\Supaf finalcountdown\Supaf_Html\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\thiago.hlrosa\source\repos\Supaf finalcountdown\Supaf_Html\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\thiago.hlrosa\source\repos\Supaf finalcountdown\Supaf_Html\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\thiago.hlrosa\source\repos\Supaf finalcountdown\Supaf_Html\bin\roslyn\System.Net.Http.dll
+C:\Users\thiago.hlrosa\source\repos\Supaf finalcountdown\Supaf_Html\bin\roslyn\System.Net.Sockets.dll
+C:\Users\thiago.hlrosa\source\repos\Supaf finalcountdown\Supaf_Html\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\thiago.hlrosa\source\repos\Supaf finalcountdown\Supaf_Html\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\thiago.hlrosa\source\repos\Supaf finalcountdown\Supaf_Html\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\thiago.hlrosa\source\repos\Supaf finalcountdown\Supaf_Html\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\thiago.hlrosa\source\repos\Supaf finalcountdown\Supaf_Html\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\thiago.hlrosa\source\repos\Supaf finalcountdown\Supaf_Html\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\thiago.hlrosa\source\repos\Supaf finalcountdown\Supaf_Html\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\thiago.hlrosa\source\repos\Supaf finalcountdown\Supaf_Html\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\thiago.hlrosa\source\repos\Supaf finalcountdown\Supaf_Html\bin\roslyn\System.ValueTuple.dll
+C:\Users\thiago.hlrosa\source\repos\Supaf finalcountdown\Supaf_Html\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\thiago.hlrosa\source\repos\Supaf finalcountdown\Supaf_Html\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\thiago.hlrosa\source\repos\Supaf finalcountdown\Supaf_Html\bin\roslyn\System.Xml.XPath.dll
+C:\Users\thiago.hlrosa\source\repos\Supaf finalcountdown\Supaf_Html\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\thiago.hlrosa\source\repos\Supaf finalcountdown\Supaf_Html\bin\roslyn\vbc.exe
+C:\Users\thiago.hlrosa\source\repos\Supaf finalcountdown\Supaf_Html\bin\roslyn\vbc.exe.config
+C:\Users\thiago.hlrosa\source\repos\Supaf finalcountdown\Supaf_Html\bin\roslyn\vbc.rsp
+C:\Users\thiago.hlrosa\source\repos\Supaf finalcountdown\Supaf_Html\bin\roslyn\VBCSCompiler.exe
+C:\Users\thiago.hlrosa\source\repos\Supaf finalcountdown\Supaf_Html\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\thiago.hlrosa\source\repos\Supaf finalcountdown\Supaf_Html\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\thiago.hlrosa\source\repos\Supaf finalcountdown\Supaf_Html\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\thiago.hlrosa\source\repos\Supaf finalcountdown\Supaf_Html\obj\Debug\Supaf_Html.csproj.AssemblyReference.cache
+C:\Users\thiago.hlrosa\source\repos\Supaf finalcountdown\Supaf_Html\obj\Debug\Supaf_Html.csproj.CoreCompileInputs.cache
+C:\Users\thiago.hlrosa\source\repos\Supaf finalcountdown\Supaf_Html\obj\Debug\Supaf_Html.csproj.CopyComplete
+C:\Users\thiago.hlrosa\source\repos\Supaf finalcountdown\Supaf_Html\obj\Debug\Supaf_Html.dll
+C:\Users\thiago.hlrosa\source\repos\Supaf finalcountdown\Supaf_Html\obj\Debug\Supaf_Html.pdb
+C:\Users\Barbarian\Desktop\PI WEB\Supaf finalcountdown\Supaf_Html\bin\Supaf_Html.dll.config
+C:\Users\Barbarian\Desktop\PI WEB\Supaf finalcountdown\Supaf_Html\bin\Supaf_Html.dll
+C:\Users\Barbarian\Desktop\PI WEB\Supaf finalcountdown\Supaf_Html\bin\Supaf_Html.pdb
+C:\Users\Barbarian\Desktop\PI WEB\Supaf finalcountdown\Supaf_Html\bin\roslyn\csc.exe
+C:\Users\Barbarian\Desktop\PI WEB\Supaf finalcountdown\Supaf_Html\bin\roslyn\csc.exe.config
+C:\Users\Barbarian\Desktop\PI WEB\Supaf finalcountdown\Supaf_Html\bin\roslyn\csc.rsp
+C:\Users\Barbarian\Desktop\PI WEB\Supaf finalcountdown\Supaf_Html\bin\roslyn\csi.exe
+C:\Users\Barbarian\Desktop\PI WEB\Supaf finalcountdown\Supaf_Html\bin\roslyn\csi.exe.config
+C:\Users\Barbarian\Desktop\PI WEB\Supaf finalcountdown\Supaf_Html\bin\roslyn\csi.rsp
+C:\Users\Barbarian\Desktop\PI WEB\Supaf finalcountdown\Supaf_Html\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Barbarian\Desktop\PI WEB\Supaf finalcountdown\Supaf_Html\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Barbarian\Desktop\PI WEB\Supaf finalcountdown\Supaf_Html\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Barbarian\Desktop\PI WEB\Supaf finalcountdown\Supaf_Html\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Barbarian\Desktop\PI WEB\Supaf finalcountdown\Supaf_Html\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Barbarian\Desktop\PI WEB\Supaf finalcountdown\Supaf_Html\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Barbarian\Desktop\PI WEB\Supaf finalcountdown\Supaf_Html\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Barbarian\Desktop\PI WEB\Supaf finalcountdown\Supaf_Html\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Barbarian\Desktop\PI WEB\Supaf finalcountdown\Supaf_Html\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Barbarian\Desktop\PI WEB\Supaf finalcountdown\Supaf_Html\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Barbarian\Desktop\PI WEB\Supaf finalcountdown\Supaf_Html\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Barbarian\Desktop\PI WEB\Supaf finalcountdown\Supaf_Html\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Barbarian\Desktop\PI WEB\Supaf finalcountdown\Supaf_Html\bin\roslyn\System.AppContext.dll
+C:\Users\Barbarian\Desktop\PI WEB\Supaf finalcountdown\Supaf_Html\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Barbarian\Desktop\PI WEB\Supaf finalcountdown\Supaf_Html\bin\roslyn\System.Console.dll
+C:\Users\Barbarian\Desktop\PI WEB\Supaf finalcountdown\Supaf_Html\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Barbarian\Desktop\PI WEB\Supaf finalcountdown\Supaf_Html\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Barbarian\Desktop\PI WEB\Supaf finalcountdown\Supaf_Html\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Barbarian\Desktop\PI WEB\Supaf finalcountdown\Supaf_Html\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Barbarian\Desktop\PI WEB\Supaf finalcountdown\Supaf_Html\bin\roslyn\System.IO.Compression.dll
+C:\Users\Barbarian\Desktop\PI WEB\Supaf finalcountdown\Supaf_Html\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Barbarian\Desktop\PI WEB\Supaf finalcountdown\Supaf_Html\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Barbarian\Desktop\PI WEB\Supaf finalcountdown\Supaf_Html\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Barbarian\Desktop\PI WEB\Supaf finalcountdown\Supaf_Html\bin\roslyn\System.Net.Http.dll
+C:\Users\Barbarian\Desktop\PI WEB\Supaf finalcountdown\Supaf_Html\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Barbarian\Desktop\PI WEB\Supaf finalcountdown\Supaf_Html\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Barbarian\Desktop\PI WEB\Supaf finalcountdown\Supaf_Html\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Barbarian\Desktop\PI WEB\Supaf finalcountdown\Supaf_Html\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Barbarian\Desktop\PI WEB\Supaf finalcountdown\Supaf_Html\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Barbarian\Desktop\PI WEB\Supaf finalcountdown\Supaf_Html\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Barbarian\Desktop\PI WEB\Supaf finalcountdown\Supaf_Html\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Barbarian\Desktop\PI WEB\Supaf finalcountdown\Supaf_Html\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Barbarian\Desktop\PI WEB\Supaf finalcountdown\Supaf_Html\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Barbarian\Desktop\PI WEB\Supaf finalcountdown\Supaf_Html\bin\roslyn\System.ValueTuple.dll
+C:\Users\Barbarian\Desktop\PI WEB\Supaf finalcountdown\Supaf_Html\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Barbarian\Desktop\PI WEB\Supaf finalcountdown\Supaf_Html\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Barbarian\Desktop\PI WEB\Supaf finalcountdown\Supaf_Html\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Barbarian\Desktop\PI WEB\Supaf finalcountdown\Supaf_Html\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Barbarian\Desktop\PI WEB\Supaf finalcountdown\Supaf_Html\bin\roslyn\vbc.exe
+C:\Users\Barbarian\Desktop\PI WEB\Supaf finalcountdown\Supaf_Html\bin\roslyn\vbc.exe.config
+C:\Users\Barbarian\Desktop\PI WEB\Supaf finalcountdown\Supaf_Html\bin\roslyn\vbc.rsp
+C:\Users\Barbarian\Desktop\PI WEB\Supaf finalcountdown\Supaf_Html\bin\roslyn\VBCSCompiler.exe
+C:\Users\Barbarian\Desktop\PI WEB\Supaf finalcountdown\Supaf_Html\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Barbarian\Desktop\PI WEB\Supaf finalcountdown\Supaf_Html\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Barbarian\Desktop\PI WEB\Supaf finalcountdown\Supaf_Html\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Barbarian\Desktop\PI WEB\Supaf finalcountdown\Supaf_Html\obj\Debug\Supaf_Html.csproj.AssemblyReference.cache
+C:\Users\Barbarian\Desktop\PI WEB\Supaf finalcountdown\Supaf_Html\obj\Debug\Supaf_Html.csproj.CoreCompileInputs.cache
+C:\Users\Barbarian\Desktop\PI WEB\Supaf finalcountdown\Supaf_Html\obj\Debug\Supaf_Html.csproj.CopyComplete
+C:\Users\Barbarian\Desktop\PI WEB\Supaf finalcountdown\Supaf_Html\obj\Debug\Supaf_Html.dll
+C:\Users\Barbarian\Desktop\PI WEB\Supaf finalcountdown\Supaf_Html\obj\Debug\Supaf_Html.pdb
+C:\Users\gmazi\Downloads\a2\Supaf finalcountdown\Supaf_Html\bin\Supaf_Html.dll.config
+C:\Users\gmazi\Downloads\a2\Supaf finalcountdown\Supaf_Html\bin\Supaf_Html.dll
+C:\Users\gmazi\Downloads\a2\Supaf finalcountdown\Supaf_Html\bin\Supaf_Html.pdb
+C:\Users\gmazi\Downloads\a2\Supaf finalcountdown\Supaf_Html\bin\roslyn\csc.exe
+C:\Users\gmazi\Downloads\a2\Supaf finalcountdown\Supaf_Html\bin\roslyn\csc.exe.config
+C:\Users\gmazi\Downloads\a2\Supaf finalcountdown\Supaf_Html\bin\roslyn\csc.rsp
+C:\Users\gmazi\Downloads\a2\Supaf finalcountdown\Supaf_Html\bin\roslyn\csi.exe
+C:\Users\gmazi\Downloads\a2\Supaf finalcountdown\Supaf_Html\bin\roslyn\csi.exe.config
+C:\Users\gmazi\Downloads\a2\Supaf finalcountdown\Supaf_Html\bin\roslyn\csi.rsp
+C:\Users\gmazi\Downloads\a2\Supaf finalcountdown\Supaf_Html\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\gmazi\Downloads\a2\Supaf finalcountdown\Supaf_Html\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\gmazi\Downloads\a2\Supaf finalcountdown\Supaf_Html\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\gmazi\Downloads\a2\Supaf finalcountdown\Supaf_Html\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\gmazi\Downloads\a2\Supaf finalcountdown\Supaf_Html\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\gmazi\Downloads\a2\Supaf finalcountdown\Supaf_Html\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\gmazi\Downloads\a2\Supaf finalcountdown\Supaf_Html\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\gmazi\Downloads\a2\Supaf finalcountdown\Supaf_Html\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\gmazi\Downloads\a2\Supaf finalcountdown\Supaf_Html\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\gmazi\Downloads\a2\Supaf finalcountdown\Supaf_Html\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\gmazi\Downloads\a2\Supaf finalcountdown\Supaf_Html\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\gmazi\Downloads\a2\Supaf finalcountdown\Supaf_Html\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\gmazi\Downloads\a2\Supaf finalcountdown\Supaf_Html\bin\roslyn\System.AppContext.dll
+C:\Users\gmazi\Downloads\a2\Supaf finalcountdown\Supaf_Html\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\gmazi\Downloads\a2\Supaf finalcountdown\Supaf_Html\bin\roslyn\System.Console.dll
+C:\Users\gmazi\Downloads\a2\Supaf finalcountdown\Supaf_Html\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\gmazi\Downloads\a2\Supaf finalcountdown\Supaf_Html\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\gmazi\Downloads\a2\Supaf finalcountdown\Supaf_Html\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\gmazi\Downloads\a2\Supaf finalcountdown\Supaf_Html\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\gmazi\Downloads\a2\Supaf finalcountdown\Supaf_Html\bin\roslyn\System.IO.Compression.dll
+C:\Users\gmazi\Downloads\a2\Supaf finalcountdown\Supaf_Html\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\gmazi\Downloads\a2\Supaf finalcountdown\Supaf_Html\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\gmazi\Downloads\a2\Supaf finalcountdown\Supaf_Html\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\gmazi\Downloads\a2\Supaf finalcountdown\Supaf_Html\bin\roslyn\System.Net.Http.dll
+C:\Users\gmazi\Downloads\a2\Supaf finalcountdown\Supaf_Html\bin\roslyn\System.Net.Sockets.dll
+C:\Users\gmazi\Downloads\a2\Supaf finalcountdown\Supaf_Html\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\gmazi\Downloads\a2\Supaf finalcountdown\Supaf_Html\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\gmazi\Downloads\a2\Supaf finalcountdown\Supaf_Html\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\gmazi\Downloads\a2\Supaf finalcountdown\Supaf_Html\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\gmazi\Downloads\a2\Supaf finalcountdown\Supaf_Html\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\gmazi\Downloads\a2\Supaf finalcountdown\Supaf_Html\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\gmazi\Downloads\a2\Supaf finalcountdown\Supaf_Html\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\gmazi\Downloads\a2\Supaf finalcountdown\Supaf_Html\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\gmazi\Downloads\a2\Supaf finalcountdown\Supaf_Html\bin\roslyn\System.ValueTuple.dll
+C:\Users\gmazi\Downloads\a2\Supaf finalcountdown\Supaf_Html\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\gmazi\Downloads\a2\Supaf finalcountdown\Supaf_Html\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\gmazi\Downloads\a2\Supaf finalcountdown\Supaf_Html\bin\roslyn\System.Xml.XPath.dll
+C:\Users\gmazi\Downloads\a2\Supaf finalcountdown\Supaf_Html\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\gmazi\Downloads\a2\Supaf finalcountdown\Supaf_Html\bin\roslyn\vbc.exe
+C:\Users\gmazi\Downloads\a2\Supaf finalcountdown\Supaf_Html\bin\roslyn\vbc.exe.config
+C:\Users\gmazi\Downloads\a2\Supaf finalcountdown\Supaf_Html\bin\roslyn\vbc.rsp
+C:\Users\gmazi\Downloads\a2\Supaf finalcountdown\Supaf_Html\bin\roslyn\VBCSCompiler.exe
+C:\Users\gmazi\Downloads\a2\Supaf finalcountdown\Supaf_Html\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\gmazi\Downloads\a2\Supaf finalcountdown\Supaf_Html\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\gmazi\Downloads\a2\Supaf finalcountdown\Supaf_Html\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\gmazi\Downloads\a2\Supaf finalcountdown\Supaf_Html\obj\Debug\Supaf_Html.csproj.AssemblyReference.cache
+C:\Users\gmazi\Downloads\a2\Supaf finalcountdown\Supaf_Html\obj\Debug\Supaf_Html.csproj.CoreCompileInputs.cache
+C:\Users\gmazi\Downloads\a2\Supaf finalcountdown\Supaf_Html\obj\Debug\Supaf_Html.csproj.CopyComplete
+C:\Users\gmazi\Downloads\a2\Supaf finalcountdown\Supaf_Html\obj\Debug\Supaf_Html.dll
+C:\Users\gmazi\Downloads\a2\Supaf finalcountdown\Supaf_Html\obj\Debug\Supaf_Html.pdb
+C:\Users\Barbarian\Desktop\PI WEB FINAL\Supaf-HTML\Supaf_Html\bin\Supaf_Html.dll.config
+C:\Users\Barbarian\Desktop\PI WEB FINAL\Supaf-HTML\Supaf_Html\bin\Supaf_Html.dll
+C:\Users\Barbarian\Desktop\PI WEB FINAL\Supaf-HTML\Supaf_Html\bin\Supaf_Html.pdb
+C:\Users\Barbarian\Desktop\PI WEB FINAL\Supaf-HTML\Supaf_Html\bin\roslyn\csc.exe
+C:\Users\Barbarian\Desktop\PI WEB FINAL\Supaf-HTML\Supaf_Html\bin\roslyn\csc.exe.config
+C:\Users\Barbarian\Desktop\PI WEB FINAL\Supaf-HTML\Supaf_Html\bin\roslyn\csc.rsp
+C:\Users\Barbarian\Desktop\PI WEB FINAL\Supaf-HTML\Supaf_Html\bin\roslyn\csi.exe
+C:\Users\Barbarian\Desktop\PI WEB FINAL\Supaf-HTML\Supaf_Html\bin\roslyn\csi.exe.config
+C:\Users\Barbarian\Desktop\PI WEB FINAL\Supaf-HTML\Supaf_Html\bin\roslyn\csi.rsp
+C:\Users\Barbarian\Desktop\PI WEB FINAL\Supaf-HTML\Supaf_Html\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Barbarian\Desktop\PI WEB FINAL\Supaf-HTML\Supaf_Html\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Barbarian\Desktop\PI WEB FINAL\Supaf-HTML\Supaf_Html\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Barbarian\Desktop\PI WEB FINAL\Supaf-HTML\Supaf_Html\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Barbarian\Desktop\PI WEB FINAL\Supaf-HTML\Supaf_Html\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Barbarian\Desktop\PI WEB FINAL\Supaf-HTML\Supaf_Html\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Barbarian\Desktop\PI WEB FINAL\Supaf-HTML\Supaf_Html\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Barbarian\Desktop\PI WEB FINAL\Supaf-HTML\Supaf_Html\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Barbarian\Desktop\PI WEB FINAL\Supaf-HTML\Supaf_Html\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Barbarian\Desktop\PI WEB FINAL\Supaf-HTML\Supaf_Html\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Barbarian\Desktop\PI WEB FINAL\Supaf-HTML\Supaf_Html\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Barbarian\Desktop\PI WEB FINAL\Supaf-HTML\Supaf_Html\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Barbarian\Desktop\PI WEB FINAL\Supaf-HTML\Supaf_Html\bin\roslyn\System.AppContext.dll
+C:\Users\Barbarian\Desktop\PI WEB FINAL\Supaf-HTML\Supaf_Html\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Barbarian\Desktop\PI WEB FINAL\Supaf-HTML\Supaf_Html\bin\roslyn\System.Console.dll
+C:\Users\Barbarian\Desktop\PI WEB FINAL\Supaf-HTML\Supaf_Html\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Barbarian\Desktop\PI WEB FINAL\Supaf-HTML\Supaf_Html\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Barbarian\Desktop\PI WEB FINAL\Supaf-HTML\Supaf_Html\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Barbarian\Desktop\PI WEB FINAL\Supaf-HTML\Supaf_Html\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Barbarian\Desktop\PI WEB FINAL\Supaf-HTML\Supaf_Html\bin\roslyn\System.IO.Compression.dll
+C:\Users\Barbarian\Desktop\PI WEB FINAL\Supaf-HTML\Supaf_Html\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Barbarian\Desktop\PI WEB FINAL\Supaf-HTML\Supaf_Html\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Barbarian\Desktop\PI WEB FINAL\Supaf-HTML\Supaf_Html\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Barbarian\Desktop\PI WEB FINAL\Supaf-HTML\Supaf_Html\bin\roslyn\System.Net.Http.dll
+C:\Users\Barbarian\Desktop\PI WEB FINAL\Supaf-HTML\Supaf_Html\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Barbarian\Desktop\PI WEB FINAL\Supaf-HTML\Supaf_Html\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Barbarian\Desktop\PI WEB FINAL\Supaf-HTML\Supaf_Html\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Barbarian\Desktop\PI WEB FINAL\Supaf-HTML\Supaf_Html\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Barbarian\Desktop\PI WEB FINAL\Supaf-HTML\Supaf_Html\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Barbarian\Desktop\PI WEB FINAL\Supaf-HTML\Supaf_Html\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Barbarian\Desktop\PI WEB FINAL\Supaf-HTML\Supaf_Html\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Barbarian\Desktop\PI WEB FINAL\Supaf-HTML\Supaf_Html\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Barbarian\Desktop\PI WEB FINAL\Supaf-HTML\Supaf_Html\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Barbarian\Desktop\PI WEB FINAL\Supaf-HTML\Supaf_Html\bin\roslyn\System.ValueTuple.dll
+C:\Users\Barbarian\Desktop\PI WEB FINAL\Supaf-HTML\Supaf_Html\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Barbarian\Desktop\PI WEB FINAL\Supaf-HTML\Supaf_Html\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Barbarian\Desktop\PI WEB FINAL\Supaf-HTML\Supaf_Html\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Barbarian\Desktop\PI WEB FINAL\Supaf-HTML\Supaf_Html\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Barbarian\Desktop\PI WEB FINAL\Supaf-HTML\Supaf_Html\bin\roslyn\vbc.exe
+C:\Users\Barbarian\Desktop\PI WEB FINAL\Supaf-HTML\Supaf_Html\bin\roslyn\vbc.exe.config
+C:\Users\Barbarian\Desktop\PI WEB FINAL\Supaf-HTML\Supaf_Html\bin\roslyn\vbc.rsp
+C:\Users\Barbarian\Desktop\PI WEB FINAL\Supaf-HTML\Supaf_Html\bin\roslyn\VBCSCompiler.exe
+C:\Users\Barbarian\Desktop\PI WEB FINAL\Supaf-HTML\Supaf_Html\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Barbarian\Desktop\PI WEB FINAL\Supaf-HTML\Supaf_Html\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Barbarian\Desktop\PI WEB FINAL\Supaf-HTML\Supaf_Html\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Barbarian\Desktop\PI WEB FINAL\Supaf-HTML\Supaf_Html\obj\Debug\Supaf_Html.csproj.AssemblyReference.cache
+C:\Users\Barbarian\Desktop\PI WEB FINAL\Supaf-HTML\Supaf_Html\obj\Debug\Supaf_Html.csproj.CoreCompileInputs.cache
+C:\Users\Barbarian\Desktop\PI WEB FINAL\Supaf-HTML\Supaf_Html\obj\Debug\Supaf_Html.csproj.CopyComplete
+C:\Users\Barbarian\Desktop\PI WEB FINAL\Supaf-HTML\Supaf_Html\obj\Debug\Supaf_Html.dll
+C:\Users\Barbarian\Desktop\PI WEB FINAL\Supaf-HTML\Supaf_Html\obj\Debug\Supaf_Html.pdb
+C:\Users\gmazi\Desktop\Supaf-HTML\Supaf_Html\obj\Debug\Supaf_Html.csproj.AssemblyReference.cache
+C:\Users\gmazi\Desktop\Supaf-HTML\Supaf_Html\obj\Debug\Supaf_Html.csproj.CoreCompileInputs.cache
+C:\Users\gmazi\Desktop\Supaf-HTML\Supaf_Html\obj\Debug\Supaf_Html.dll
+C:\Users\gmazi\Desktop\Supaf-HTML\Supaf_Html\obj\Debug\Supaf_Html.pdb
+C:\Users\gmazi\Desktop\Supaf-HTML\Supaf_Html\bin\Supaf_Html.dll.config
+C:\Users\gmazi\Desktop\Supaf-HTML\Supaf_Html\bin\Supaf_Html.dll
+C:\Users\gmazi\Desktop\Supaf-HTML\Supaf_Html\bin\Supaf_Html.pdb
+C:\Users\gmazi\Desktop\Supaf-HTML\Supaf_Html\bin\roslyn\csc.exe
+C:\Users\gmazi\Desktop\Supaf-HTML\Supaf_Html\bin\roslyn\csc.exe.config
+C:\Users\gmazi\Desktop\Supaf-HTML\Supaf_Html\bin\roslyn\csc.rsp
+C:\Users\gmazi\Desktop\Supaf-HTML\Supaf_Html\bin\roslyn\csi.exe
+C:\Users\gmazi\Desktop\Supaf-HTML\Supaf_Html\bin\roslyn\csi.exe.config
+C:\Users\gmazi\Desktop\Supaf-HTML\Supaf_Html\bin\roslyn\csi.rsp
+C:\Users\gmazi\Desktop\Supaf-HTML\Supaf_Html\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\gmazi\Desktop\Supaf-HTML\Supaf_Html\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\gmazi\Desktop\Supaf-HTML\Supaf_Html\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\gmazi\Desktop\Supaf-HTML\Supaf_Html\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\gmazi\Desktop\Supaf-HTML\Supaf_Html\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\gmazi\Desktop\Supaf-HTML\Supaf_Html\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\gmazi\Desktop\Supaf-HTML\Supaf_Html\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\gmazi\Desktop\Supaf-HTML\Supaf_Html\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\gmazi\Desktop\Supaf-HTML\Supaf_Html\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\gmazi\Desktop\Supaf-HTML\Supaf_Html\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\gmazi\Desktop\Supaf-HTML\Supaf_Html\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\gmazi\Desktop\Supaf-HTML\Supaf_Html\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\gmazi\Desktop\Supaf-HTML\Supaf_Html\bin\roslyn\System.AppContext.dll
+C:\Users\gmazi\Desktop\Supaf-HTML\Supaf_Html\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\gmazi\Desktop\Supaf-HTML\Supaf_Html\bin\roslyn\System.Console.dll
+C:\Users\gmazi\Desktop\Supaf-HTML\Supaf_Html\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\gmazi\Desktop\Supaf-HTML\Supaf_Html\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\gmazi\Desktop\Supaf-HTML\Supaf_Html\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\gmazi\Desktop\Supaf-HTML\Supaf_Html\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\gmazi\Desktop\Supaf-HTML\Supaf_Html\bin\roslyn\System.IO.Compression.dll
+C:\Users\gmazi\Desktop\Supaf-HTML\Supaf_Html\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\gmazi\Desktop\Supaf-HTML\Supaf_Html\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\gmazi\Desktop\Supaf-HTML\Supaf_Html\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\gmazi\Desktop\Supaf-HTML\Supaf_Html\bin\roslyn\System.Net.Http.dll
+C:\Users\gmazi\Desktop\Supaf-HTML\Supaf_Html\bin\roslyn\System.Net.Sockets.dll
+C:\Users\gmazi\Desktop\Supaf-HTML\Supaf_Html\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\gmazi\Desktop\Supaf-HTML\Supaf_Html\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\gmazi\Desktop\Supaf-HTML\Supaf_Html\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\gmazi\Desktop\Supaf-HTML\Supaf_Html\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\gmazi\Desktop\Supaf-HTML\Supaf_Html\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\gmazi\Desktop\Supaf-HTML\Supaf_Html\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\gmazi\Desktop\Supaf-HTML\Supaf_Html\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\gmazi\Desktop\Supaf-HTML\Supaf_Html\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\gmazi\Desktop\Supaf-HTML\Supaf_Html\bin\roslyn\System.ValueTuple.dll
+C:\Users\gmazi\Desktop\Supaf-HTML\Supaf_Html\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\gmazi\Desktop\Supaf-HTML\Supaf_Html\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\gmazi\Desktop\Supaf-HTML\Supaf_Html\bin\roslyn\System.Xml.XPath.dll
+C:\Users\gmazi\Desktop\Supaf-HTML\Supaf_Html\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\gmazi\Desktop\Supaf-HTML\Supaf_Html\bin\roslyn\vbc.exe
+C:\Users\gmazi\Desktop\Supaf-HTML\Supaf_Html\bin\roslyn\vbc.exe.config
+C:\Users\gmazi\Desktop\Supaf-HTML\Supaf_Html\bin\roslyn\vbc.rsp
+C:\Users\gmazi\Desktop\Supaf-HTML\Supaf_Html\bin\roslyn\VBCSCompiler.exe
+C:\Users\gmazi\Desktop\Supaf-HTML\Supaf_Html\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\gmazi\Desktop\Supaf-HTML\Supaf_Html\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\gmazi\Desktop\Supaf-HTML\Supaf_Html\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\gmazi\Desktop\Supaf-HTML\Supaf_Html\obj\Debug\Supaf_Html.csproj.CopyComplete
+C:\Users\Barbarian\Desktop\New folder (14)\Supaf-HTML\Supaf_Html\bin\Supaf_Html.dll.config
+C:\Users\Barbarian\Desktop\New folder (14)\Supaf-HTML\Supaf_Html\bin\Supaf_Html.dll
+C:\Users\Barbarian\Desktop\New folder (14)\Supaf-HTML\Supaf_Html\bin\Supaf_Html.pdb
+C:\Users\Barbarian\Desktop\New folder (14)\Supaf-HTML\Supaf_Html\bin\roslyn\csc.exe
+C:\Users\Barbarian\Desktop\New folder (14)\Supaf-HTML\Supaf_Html\bin\roslyn\csc.exe.config
+C:\Users\Barbarian\Desktop\New folder (14)\Supaf-HTML\Supaf_Html\bin\roslyn\csc.rsp
+C:\Users\Barbarian\Desktop\New folder (14)\Supaf-HTML\Supaf_Html\bin\roslyn\csi.exe
+C:\Users\Barbarian\Desktop\New folder (14)\Supaf-HTML\Supaf_Html\bin\roslyn\csi.exe.config
+C:\Users\Barbarian\Desktop\New folder (14)\Supaf-HTML\Supaf_Html\bin\roslyn\csi.rsp
+C:\Users\Barbarian\Desktop\New folder (14)\Supaf-HTML\Supaf_Html\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Barbarian\Desktop\New folder (14)\Supaf-HTML\Supaf_Html\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Barbarian\Desktop\New folder (14)\Supaf-HTML\Supaf_Html\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Barbarian\Desktop\New folder (14)\Supaf-HTML\Supaf_Html\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Barbarian\Desktop\New folder (14)\Supaf-HTML\Supaf_Html\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Barbarian\Desktop\New folder (14)\Supaf-HTML\Supaf_Html\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Barbarian\Desktop\New folder (14)\Supaf-HTML\Supaf_Html\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Barbarian\Desktop\New folder (14)\Supaf-HTML\Supaf_Html\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Barbarian\Desktop\New folder (14)\Supaf-HTML\Supaf_Html\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Barbarian\Desktop\New folder (14)\Supaf-HTML\Supaf_Html\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Barbarian\Desktop\New folder (14)\Supaf-HTML\Supaf_Html\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Barbarian\Desktop\New folder (14)\Supaf-HTML\Supaf_Html\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Barbarian\Desktop\New folder (14)\Supaf-HTML\Supaf_Html\bin\roslyn\System.AppContext.dll
+C:\Users\Barbarian\Desktop\New folder (14)\Supaf-HTML\Supaf_Html\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Barbarian\Desktop\New folder (14)\Supaf-HTML\Supaf_Html\bin\roslyn\System.Console.dll
+C:\Users\Barbarian\Desktop\New folder (14)\Supaf-HTML\Supaf_Html\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Barbarian\Desktop\New folder (14)\Supaf-HTML\Supaf_Html\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Barbarian\Desktop\New folder (14)\Supaf-HTML\Supaf_Html\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Barbarian\Desktop\New folder (14)\Supaf-HTML\Supaf_Html\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Barbarian\Desktop\New folder (14)\Supaf-HTML\Supaf_Html\bin\roslyn\System.IO.Compression.dll
+C:\Users\Barbarian\Desktop\New folder (14)\Supaf-HTML\Supaf_Html\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Barbarian\Desktop\New folder (14)\Supaf-HTML\Supaf_Html\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Barbarian\Desktop\New folder (14)\Supaf-HTML\Supaf_Html\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Barbarian\Desktop\New folder (14)\Supaf-HTML\Supaf_Html\bin\roslyn\System.Net.Http.dll
+C:\Users\Barbarian\Desktop\New folder (14)\Supaf-HTML\Supaf_Html\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Barbarian\Desktop\New folder (14)\Supaf-HTML\Supaf_Html\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Barbarian\Desktop\New folder (14)\Supaf-HTML\Supaf_Html\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Barbarian\Desktop\New folder (14)\Supaf-HTML\Supaf_Html\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Barbarian\Desktop\New folder (14)\Supaf-HTML\Supaf_Html\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Barbarian\Desktop\New folder (14)\Supaf-HTML\Supaf_Html\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Barbarian\Desktop\New folder (14)\Supaf-HTML\Supaf_Html\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Barbarian\Desktop\New folder (14)\Supaf-HTML\Supaf_Html\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Barbarian\Desktop\New folder (14)\Supaf-HTML\Supaf_Html\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Barbarian\Desktop\New folder (14)\Supaf-HTML\Supaf_Html\bin\roslyn\System.ValueTuple.dll
+C:\Users\Barbarian\Desktop\New folder (14)\Supaf-HTML\Supaf_Html\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Barbarian\Desktop\New folder (14)\Supaf-HTML\Supaf_Html\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Barbarian\Desktop\New folder (14)\Supaf-HTML\Supaf_Html\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Barbarian\Desktop\New folder (14)\Supaf-HTML\Supaf_Html\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Barbarian\Desktop\New folder (14)\Supaf-HTML\Supaf_Html\bin\roslyn\vbc.exe
+C:\Users\Barbarian\Desktop\New folder (14)\Supaf-HTML\Supaf_Html\bin\roslyn\vbc.exe.config
+C:\Users\Barbarian\Desktop\New folder (14)\Supaf-HTML\Supaf_Html\bin\roslyn\vbc.rsp
+C:\Users\Barbarian\Desktop\New folder (14)\Supaf-HTML\Supaf_Html\bin\roslyn\VBCSCompiler.exe
+C:\Users\Barbarian\Desktop\New folder (14)\Supaf-HTML\Supaf_Html\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Barbarian\Desktop\New folder (14)\Supaf-HTML\Supaf_Html\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Barbarian\Desktop\New folder (14)\Supaf-HTML\Supaf_Html\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Barbarian\Desktop\New folder (14)\Supaf-HTML\Supaf_Html\obj\Debug\Supaf_Html.csproj.AssemblyReference.cache
+C:\Users\Barbarian\Desktop\New folder (14)\Supaf-HTML\Supaf_Html\obj\Debug\Supaf_Html.csproj.CoreCompileInputs.cache
+C:\Users\Barbarian\Desktop\New folder (14)\Supaf-HTML\Supaf_Html\obj\Debug\Supaf_Html.csproj.CopyComplete
+C:\Users\Barbarian\Desktop\New folder (14)\Supaf-HTML\Supaf_Html\obj\Debug\Supaf_Html.dll
+C:\Users\Barbarian\Desktop\New folder (14)\Supaf-HTML\Supaf_Html\obj\Debug\Supaf_Html.pdb
